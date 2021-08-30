@@ -4,7 +4,7 @@
 <h1 align="center">Projetos Front-End Mentor</h1>
 
 <p>Sou estudante de programação e para consolidar e treinar o conhecimento adquirido me propuz a fazer os projetos do site Front-End Mentor, meu objetivo é concluir todos os 44 projetos gratuitos.</p>
-➡️   Clique aqui e veja todos os projetos do site https://www.frontendmentor.io/challenges?sort=difficulty|asc&types=free
+➡️ Clique aqui e veja todos os projetos do site  https://www.frontendmentor.io/challenges?sort=difficulty|asc&types=free
 
 <h1>1/44 Order Summary</h1>
 <div align="center">
